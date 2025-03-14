@@ -1,0 +1,1 @@
+API feita com POST, GET, DELET usando como base a documentação do https://www.mongodb.com/pt-br/developer/products/atlas/mongodb-express-prisma-validation/ mas nao utilizo Prisma e sim mongoose, deu muito trabalho a conexão, ainda irei estudar sobre.
